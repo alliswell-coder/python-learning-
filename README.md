@@ -1,10 +1,35 @@
-# qa-ai-portfolio
-A collection of AI-powered QA projects including LLM-based  test case generation, automation frameworks, and intelligent  QA workflows built with LangChain, Groq, and Langflow.
+# python-learning-
 
-👩‍💻 About This Repository
-This repository is a living portfolio of QA + AI projects built by a Senior QA professional with 8+ years of experience in software quality assurance, test automation, and AI-powered workflows.
-It covers everything from LLM-based test case generation to automated QA frameworks — demonstrating how modern QA engineers can leverage AI to improve software quality, reduce manual effort, and accelerate release cycles.
+A structured Python learning series by [@alliswell-coder](https://github.com/alliswell-coder), focused on SDET (Software Development Engineer in Test) concepts.
 
-🛠️ Tech Stack
+## Contents
 
+| Folder | Description |
+|--------|-------------|
+| [Python Learning/](Python%20Learning/) | Step-by-step Python scripts from basics to advanced topics |
 
+## Python Learning Topics
+
+| File | Topic |
+|------|-------|
+| 01_Hello_python.py | Hello World & print basics |
+| 02_Basic.py | Variables and basic data types |
+| 04_identified.py | Identifiers & naming rules |
+| 05_keywords.py | Python reserved keywords |
+| 06_Case.py | Case sensitivity in Python |
+| 07_Operators.py | Arithmetic, comparison, logical operators |
+| 08_Literal.py | All Python literal types |
+
+## Setup
+
+```bash
+# Requires Python 3.6+
+python --version
+
+# Run any file
+python "Python Learning/08_Literal.py"
+```
+
+## Author
+
+[alliswell-coder](https://github.com/alliswell-coder)
